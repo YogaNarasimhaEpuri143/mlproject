@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-from typing import List
+from typing import List # Library to add hints, of input and output type. (Introduced in python == 3.5)
 
 
 HYPEN_E_DOT = "-e ."
